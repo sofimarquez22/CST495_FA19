@@ -14,7 +14,6 @@
 		5D28BE7B2314BE7000235BC9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5D28BE792314BE7000235BC9 /* LaunchScreen.storyboard */; };
 		5D28BE862314BE7000235BC9 /* tipCalculatorTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D28BE852314BE7000235BC9 /* tipCalculatorTests.swift */; };
 		5D28BE912314BE7000235BC9 /* tipCalculatorUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D28BE902314BE7000235BC9 /* tipCalculatorUITests.swift */; };
-		5D28BE9F2314BED000235BC9 /* calculate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D28BE9E2314BED000235BC9 /* calculate.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -48,7 +47,6 @@
 		5D28BE8C2314BE7000235BC9 /* tipCalculatorUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = tipCalculatorUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		5D28BE902314BE7000235BC9 /* tipCalculatorUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tipCalculatorUITests.swift; sourceTree = "<group>"; };
 		5D28BE922314BE7000235BC9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		5D28BE9E2314BED000235BC9 /* calculate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = calculate.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,7 +103,6 @@
 				5D28BE772314BE7000235BC9 /* Assets.xcassets */,
 				5D28BE792314BE7000235BC9 /* LaunchScreen.storyboard */,
 				5D28BE7C2314BE7000235BC9 /* Info.plist */,
-				5D28BE9E2314BED000235BC9 /* calculate.swift */,
 			);
 			path = tipCalculator;
 			sourceTree = "<group>";
@@ -259,7 +256,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				5D28BE9F2314BED000235BC9 /* calculate.swift in Sources */,
 				5D28BE732314BE6E00235BC9 /* ViewController.swift in Sources */,
 				5D28BE712314BE6E00235BC9 /* AppDelegate.swift in Sources */,
 			);
